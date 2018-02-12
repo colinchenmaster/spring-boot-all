@@ -64,3 +64,10 @@ local.properties
 # Locally stored "Eclipse launch configurations"
 *.launch
 .metadata/.log
+
+# idea ignore
+.idea/
+*.ipr
+*.iml
+*.iws
+
